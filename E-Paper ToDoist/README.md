@@ -17,7 +17,7 @@ Open the folder titled main.py and insert your API token from ToDoIst.
 
 Connect the Eink display to the Pi using the images below and run the main.py file.
 
-![Raspberry Pi to E-Paper Wiring](https://github.com/ashtom50/Ash-Projects/blob/main/Eink/Eink-Pi%20Wiring.png?raw=true)
+![Raspberry Pi to E-Paper Wiring](https://github.com/ashtom50/Ash-Projects/blob/main/E-Paper%20ToDoist/Eink-Pi%20Wiring.png?raw=true)
 
 [Waveshare Wiki](https://www.waveshare.com/wiki/4.2inch_e-Paper_Module_Manual#Users_Guides_of_Raspberry_Pi)
 
