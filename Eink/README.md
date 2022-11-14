@@ -11,11 +11,11 @@ Install ToDoIst API python package
 Ensure you have SPI enabled in your Pi's interfacing options. If using full Raspberry Pi OS then this can be done by going into Raspberry Pi Configuration from the drop down menu. If using the terminal just type,
 `sudo raspi-config`
 
-Download the folder in my github projects repository called Eink ToDoIst.
+Download the folder in my github for either a horizonal or vertical view.
 
 Open the folder titled main.py and insert your API token from ToDoIst. 
 
-Connect the Eink display to the Pi using the images below.
+Connect the Eink display to the Pi using the images below and run the main.py file.
 
 ![Raspberry Pi to E-Paper Wiring](https://github.com/ashtom50/Ash-Projects/blob/main/Eink/Eink-Pi%20Wiring.png?raw=true)
 
